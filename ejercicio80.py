@@ -1,4 +1,4 @@
-#programa que mediante funciones recursivas calcule el termino “x” de la serie de fibonacci
+#programa que mediante funciones recursivas calcula el termino “x” de la serie de fibonacci
 def fib(n):
         if n>2:
             return fib(n-2)+fib(n-1)
