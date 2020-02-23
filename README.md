@@ -14,3 +14,10 @@ EJERCICIOS CON CONDICIONALES
 
 CADENAS DE CARACTERES
 
+RECURSIVIDAD
+
+75. Escribir un programa que calcule la potencia de un numero usando recursividad. [ejercicio 75](https://github.com/ganamaa/ejercicios-repaso-python/blob/master/ejercicio75.py)
+
+80. Escribir un programa que mediante funciones recursivas calcule el termino “x” de la serie de
+fibonacci. [ejercicio 80](https://github.com/ganamaa/ejercicios-repaso-python/blob/master/ejercicio80.py)
+
