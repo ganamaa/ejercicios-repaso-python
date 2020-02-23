@@ -1,3 +1,4 @@
+#programa que calcula la potencia de un numero usando recursividad
 def potencia (n,m):
     if (m == 0):
         return 1
