@@ -60,3 +60,7 @@ ARCHIVOS
 
 87.Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterior. [ejercicio 86-87](https://github.com/ganamaa/ejercicios-repaso-python/blob/master/ejercicio86_87.py)
 
+EJERCICIO VARIOS
+
+90.Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio. [ejercicio 90](https://github.com/ganamaa/ejercicios-repaso-python/blob/master/ejercicio90.py)
+
