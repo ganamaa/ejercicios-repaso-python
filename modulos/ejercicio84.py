@@ -1,4 +1,5 @@
-# ejercicios con modulos .84
+"""módulo que maneje funciones para operar en sistema octal, las operaciones que se deben implementar son:
+suma, resta, multiplicación y división"""
 import aritmeticaOct as aOct
 
 numeUno = int(input("ingrese un numero octal: "),8)
